@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/nastik-creative/static/css/main.edfb09fa.css",
+    "main.js": "/nastik-creative/static/js/main.b3cc7429.js",
+    "static/media/9.jpg": "/nastik-creative/static/media/9.2c58d5ab31adce219439.jpg",
+    "static/media/11.jpg": "/nastik-creative/static/media/11.1e8f70b815a0593d3b37.jpg",
+    "static/media/1-3.jpg": "/nastik-creative/static/media/1-3.4a18593e3656c7334ae6.jpg",
+    "static/media/1-7.jpg": "/nastik-creative/static/media/1-7.707458c44d48361a6d1a.jpg",
+    "static/media/3-3.jpg": "/nastik-creative/static/media/3-3.852c956df1527fead0bf.jpg",
+    "static/media/about.jpg": "/nastik-creative/static/media/about.da8a09edb60dc5ccacdf.jpg",
+    "index.html": "/nastik-creative/index.html",
+    "main.edfb09fa.css.map": "/nastik-creative/static/css/main.edfb09fa.css.map",
+    "main.b3cc7429.js.map": "/nastik-creative/static/js/main.b3cc7429.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edfb09fa.css",
+    "static/js/main.b3cc7429.js"
+  ]
+}
